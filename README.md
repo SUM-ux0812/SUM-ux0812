@@ -1,16 +1,36 @@
-## Hi there 👋
+<!-- Header image or banner (optional aesthetic touch) -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/xx/xx/xx/your-aesthetic-banner.gif" alt="banner" width="100%" />
+</p>
 
-<!--
-**SUM-ux0812/SUM-ux0812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> Hello There </h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  welcome to my github 🍵<br>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+## 🎨 tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js line=4" alt="tech stack" />
+</p>
+
+---
+
+
+##  github stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=calm&hide_border=true" alt="github stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=calm&hide_border=true" alt="top languages" />
+</p>
+
+---
+
+
+
+
