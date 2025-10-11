@@ -15,7 +15,7 @@
 
 
 <p >
-  <img src="https://skillicons.dev/icons?i=html,css,js,git&perline=4" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,&perline=4" alt="tech stack" />
 </p>
 
 
